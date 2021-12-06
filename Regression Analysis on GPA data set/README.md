@@ -1,5 +1,6 @@
 ## DATA 200 - Lab 2
 ### GPA Data Set
+- Data source: https://canvas.tufts.edu/courses/30820/files/folder/Homework/Homework%202?
 - Data description:
 - X1 = sat = combined SAT score
 - X2 = tothrs = total hours through fall semester
